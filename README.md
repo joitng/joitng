@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(she/her) undergraduate HCI researcher with grad school dreams and a desire to make tech more equitable. 
+(she/her) 
+
+undergraduate HCI researcher with grad school dreams and a desire to make tech more equitable. 
 
 currently reading lots about race and technology - hit me up if you want to start a book club 📚
+
+always down to answer any questions about undergraduate research, tech event leadership, or cs at ubc.
