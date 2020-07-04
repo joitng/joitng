@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there, i'm joice 👋
 
 <!--
 **joitng/joitng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-she/her. undergraduate HCI researcher with grad school dreams and a desire to make tech more equitable.
+(she/her) undergraduate HCI researcher with grad school dreams and a desire to make tech more equitable. 
+
+currently reading lots about race and technology - hit me up if you want to start a book club 📚
