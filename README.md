@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 (she/her) 
 
-undergraduate HCI researcher with grad school dreams and a desire to make tech more equitable. 
+undergraduate HCI researcher with grad school dreams and a desire to make tech more accountable and equitable. 
 
 currently reading lots about race and technology - hit me up if you want to start a book club 📚
 
