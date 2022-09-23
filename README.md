@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 (she/her) 
 
-undergraduate hci researcher with a desire to make things more accountable and equitable. future phd at uw hcde.
-
-always down to answer any questions about undergraduate research, tech event leadership, or cs at ubc.
+hci researcher with a desire to make things more accountable and equitable. phd at uw hcde.
